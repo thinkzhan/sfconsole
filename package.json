@@ -1,0 +1,19 @@
+{
+  "name": "sfconsole",
+  "version": "0.0.3",
+  "description": "console redefine",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "liberalist",
+  "license": "MIT",
+  "dependencies": {
+    "callsite": "^1.0.0",
+    "colors": "^1.1.2"
+  },
+  "keywords": [
+    "console",
+    "colors"
+  ]
+}
