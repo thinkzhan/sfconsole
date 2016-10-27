@@ -6,3 +6,4 @@ cs.log('console.log');
 cs.warn('console.warn');
 cs.err('console.err');
 cs.info('console.info');
+cs._log({a:1});

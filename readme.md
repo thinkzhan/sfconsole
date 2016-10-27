@@ -16,4 +16,5 @@ console.log('log...');
 console.warn('warn...');
 console.err('err...');
 console.info('logs...');
+console._log('原始console.log');
 ```

@@ -1,6 +1,6 @@
 {
   "name": "sfconsole",
-  "version": "0.0.3",
+  "version": "0.0.6",
   "description": "console redefine",
   "main": "lib/index.js",
   "scripts": {
@@ -15,5 +15,10 @@
   "keywords": [
     "console",
     "colors"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:liberalist1991/sfconsole.git",
+    "web": "https://github.com/liberalist1991/sfconsole"
+  }
 }
