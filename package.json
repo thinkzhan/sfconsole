@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "callsite": "^1.0.0",
-    "colors": "^1.1.2"
+    "@dabh/colors": "^1.4.0"
   },
   "keywords": [
     "console",
